@@ -1,3 +1,9 @@
+
+> **Warning**
+>
+> Deprecated. May not work. Check [hoshimei/adv](https://github.com/hoshimei/adv) instead.
+
+
 ## ip_adv_reader
 
 A project to read IDOLY PRIDE script files.
